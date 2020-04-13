@@ -1,3 +1,3 @@
 # caltech-ee148-spring2020-hw01
 
-The link to the instructions is available on Piazza.
+The kernels folder should be placed in ../ for run_predictions to work
